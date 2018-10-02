@@ -108,9 +108,9 @@
     choices: ['Microsoft', 'Apple', 'NetScape',  'Net Gear'],
     correctAnswer: 2 // No answer-done
   }, {
-    question: 'with (function(x, undefined){}) length?',
+    question: 'with (function(x){}) length ?',
     choices: ['1', '2', 'undefined', 'Error'],
-    correctAnswer: 1
+    correctAnswer: 0
   }, {
     question: 'Which event is fired when a document and all of its external resources are fully loaded and displayed to the user?',
     choices: ['Window', 'Load',  'Element', 'Handler'],
