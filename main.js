@@ -66,7 +66,7 @@
   }, {
     question: 'JavaScript Recognises :',
     choices: ['Binary System', 'Binary , Octal', 'Binary, Octal, Hexa', 'All number Systems'],
-    correctAnswer: 3 // No answer
+    correctAnswer: 2 // No answer-Done
   }, {
     question: '(0.1 + 0.2)==( 0.3), (0.1 + 0.2)===( 0.3):',
     choices: ['True ,true', 'False ,True', 'False, False', 'True, False'],
@@ -96,17 +96,17 @@
     choices: ['0', '-25', 'infinity', '-infinity'],
     correctAnswer: 3
   }, {
-    question: 'var number 5 == "5" && 5 === "5" && 5 == 6:',
+    question: 'var number = (5 == "5" && 5 === "5" && 5 == 6):',
     choices: ['false', 'true', 'undefined', 'null'],
-    correctAnswer: 3 // No answer
+    correctAnswer: 0 // No answer-done
   }, {
     question: 'What does addClass do in jQuery:',
-    choices: ['Adds object', 'adds a class', 'adds an element', 'no function exists'],
-    correctAnswer: 3 // No answer
+    choices: ['Adds object to class', 'adds a class to element', 'adds an element to class', 'Error:no function exists'],
+    correctAnswer: 1 // No answer-done
   }, {
     question: 'Javascript was developed by :',
     choices: ['Microsoft', 'Apple', 'NetScape',  'Net Gear'],
-    correctAnswer: 3 // No answer
+    correctAnswer: 2 // No answer-done
   }, {
     question: 'with (function(x, undefined){}) length?',
     choices: ['1', '2', 'undefined', 'Error'],
