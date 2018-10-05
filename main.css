@@ -27,14 +27,15 @@ p {
 }
 
 .button {
-    border: 3.5px solid #d9ecb2;
+    height: 30px;
     border-radius: 5px;
     width: 40px;
     padding: 7px 22px;
     position: relative;
     left: 20px;
+    line-height: 30px;
     top: 20px;
-    background-color: #2ae66eed;
+    background-color: #fff;
     color: black;
     margin: 0 2px 0 2px;
 }
